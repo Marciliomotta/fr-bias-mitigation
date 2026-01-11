@@ -1,0 +1,9 @@
+numpy
+pandas
+deepface
+face_recognition
+cmake
+bing-image-downloader
+Pillow
+tf-keras
+opencv-python
