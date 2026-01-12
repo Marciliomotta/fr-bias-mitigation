@@ -7,3 +7,9 @@ bing-image-downloader
 Pillow
 tf-keras
 opencv-python
+tensorflow>=2.10.0
+tf-keras>=2.10.0
+scikit-learn
+matplotlib
+pandas
+numpy
